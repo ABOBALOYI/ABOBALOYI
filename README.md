@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Messi or Ronaldo?](https://medium.com/@abobaloyi/messi-or-ronaldo-d25e3e09f900?source=rss-6dff52153410------2)
+- [It is feasible for artificial intelligence to have consciousness.](https://medium.com/@abobaloyi/it-is-feasible-for-artificial-intelligence-to-have-consciousness-9fd5b955939b?source=rss-6dff52153410------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
