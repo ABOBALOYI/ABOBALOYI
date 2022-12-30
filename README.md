@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abobaloyi](https://medium.com/@abobaloyi)
 
-- 💬 Ask me about **microservices (Python) | AWS | Google cloud & Ethical Hacking**
+- 💬 Ask me about **microservices (Python) | AWS | Google Cloud & Ethical Hacking**
 
 - 📫 How to reach me **abo@baloyiabo.co.za**
 
