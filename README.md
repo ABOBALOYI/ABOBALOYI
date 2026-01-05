@@ -53,7 +53,7 @@ I design and build secure, scalable web platforms and APIs using modern JavaScri
 
 ## What I Work On
 
-- Full-stack platforms (Next.js + FastAPI)
+- Full-stack platforms (Next.js + FastAPI) ,Django
 - Cloud-native APIs and backend systems
 - Security-focused application architectures
 - SaaS and internal startup products
